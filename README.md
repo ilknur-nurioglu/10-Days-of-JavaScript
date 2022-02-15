@@ -8,7 +8,7 @@ This series focuses on learning and practicing JavaScript.
 
 ## Day 0: Data Types
 ![day0-datatypes](https://user-images.githubusercontent.com/97106063/154056403-fea9f7cf-b787-462b-b48d-3598358e542b.png)
-## Day 0: Data Types Output
+### Day 0: Data Types Output
 ![day0datatypes-output](https://user-images.githubusercontent.com/97106063/154056408-d0e2ca9c-6266-431a-bddd-0552d2bd9885.png)
 
 ## Day 1: Arithmetic Operators
