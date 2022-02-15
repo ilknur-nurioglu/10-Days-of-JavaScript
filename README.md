@@ -15,3 +15,8 @@ This series focuses on learning and practicing JavaScript.
 ![day1](https://user-images.githubusercontent.com/97106063/154053328-a557230b-7766-4691-bc15-522aa4b12d8b.png)
 ### Day 1: Arithmetic Operators Output
 ![day1output](https://user-images.githubusercontent.com/97106063/154053334-ec1710a5-ae7d-4291-8ca7-b156dcc1f10a.png)
+
+## Day 1: Functions
+![day1functions](https://user-images.githubusercontent.com/97106063/154060360-ad2d2884-70d5-4577-92e0-40ab5ca04953.png)
+### Day 1: Functions Output
+![day1functionsoutput](https://user-images.githubusercontent.com/97106063/154060364-e334d5fa-d4a3-4192-ace3-7566f481758e.png)
