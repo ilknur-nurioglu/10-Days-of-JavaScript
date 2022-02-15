@@ -6,3 +6,4 @@ This series focuses on learning and practicing JavaScript.
 ### Day 0: Output
 ![day0solution](https://user-images.githubusercontent.com/97106063/154037893-f37c3e3d-b18a-4288-a437-20d36244fd75.png)
 
+## Day 1: Arithmetic Operators
