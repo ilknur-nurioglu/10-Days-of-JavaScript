@@ -20,3 +20,8 @@ This series focuses on learning and practicing JavaScript.
 ![day1functions](https://user-images.githubusercontent.com/97106063/154060360-ad2d2884-70d5-4577-92e0-40ab5ca04953.png)
 ### Day 1: Functions Output
 ![day1functionsoutput](https://user-images.githubusercontent.com/97106063/154060364-e334d5fa-d4a3-4192-ace3-7566f481758e.png)
+
+## Day 1: Let and Const
+![day1const](https://user-images.githubusercontent.com/97106063/154682166-1daf3916-9e46-421a-bc9a-196a17c9b096.png)
+### Day 1: Let and Const Output
+![day1constoutput](https://user-images.githubusercontent.com/97106063/154682162-489bc9a5-1eee-4827-bbbf-ae7975d7d084.png)
