@@ -26,9 +26,12 @@ This series focuses on learning and practicing JavaScript.
 ### Day 1: Let and Const Output
 ![day1constoutput](https://user-images.githubusercontent.com/97106063/154682162-489bc9a5-1eee-4827-bbbf-ae7975d7d084.png)
 
-## Day 3: Intro to Conditional Statements
+## Day 2: Intro to Conditional Statements
 ![day3-ifelse](https://user-images.githubusercontent.com/97106063/156352426-dca131b0-e849-4a10-ba7e-bdd9d1ec1d8f.png)
-
-### Day 3: Intro to Conditional Statements Output
+### Day 2: Intro to Conditional Statements Output
 ![day3-ifelse-output](https://user-images.githubusercontent.com/97106063/156352433-61b8dec3-2d8e-40b0-ba34-9c7a215dfb21.png)
 
+## Day 2: Conditional Statements: If-Else
+![day3-ifelse2](https://user-images.githubusercontent.com/97106063/156358909-4370802d-ec56-48a3-b34e-5956dcba0f9b.png)
+### Day 2: Conditional Statements: If-Else Output
+![day3-ifelse2-output](https://user-images.githubusercontent.com/97106063/156358915-e1070f31-8f99-4292-a777-0ed5feaa52ca.png)
