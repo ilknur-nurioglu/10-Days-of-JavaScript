@@ -35,3 +35,10 @@ This series focuses on learning and practicing JavaScript.
 ![day3-ifelse2](https://user-images.githubusercontent.com/97106063/156358909-4370802d-ec56-48a3-b34e-5956dcba0f9b.png)
 ### Day 2: Conditional Statements: If-Else Output
 ![day3-ifelse2-output](https://user-images.githubusercontent.com/97106063/156358915-e1070f31-8f99-4292-a777-0ed5feaa52ca.png)
+
+## Day 2: Conditional Statements: Switch
+![day2-switchcase](https://user-images.githubusercontent.com/97106063/156727172-4465d55c-0bde-4762-a163-86b4f4b81263.png)
+### Day 2: Conditional Statements: Switch Output
+![day2-switchcase -output](https://user-images.githubusercontent.com/97106063/156727167-d74d683a-8548-4dbc-9cea-dbd8b182f8fa.png)
+
+
