@@ -36,4 +36,9 @@ This series focuses on learning and practicing JavaScript.
 ### Day 2: Conditional Statements: Switch Output
 ![day2-switchcase -output](https://user-images.githubusercontent.com/97106063/156727167-d74d683a-8548-4dbc-9cea-dbd8b182f8fa.png)
 
+## Day 2: Loops
+![10dayofjsLoop](https://user-images.githubusercontent.com/97106063/160246075-e0084299-f765-4c97-91a2-a54808ebb11b.png)
+### Day 2: Loops Output
+![10dayofjsLoopOut](https://user-images.githubusercontent.com/97106063/160246076-9da4582c-d63c-466b-9e54-1e4ea6d204e1.png)
+
 
