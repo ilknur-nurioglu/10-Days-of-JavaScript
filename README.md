@@ -41,4 +41,7 @@ This series focuses on learning and practicing JavaScript.
 ### Day 2: Loops Output
 ![10dayofjsLoopOut](https://user-images.githubusercontent.com/97106063/160246076-9da4582c-d63c-466b-9e54-1e4ea6d204e1.png)
 
-
+## Day 3: Arrays
+![10dayofjsArray](https://user-images.githubusercontent.com/97106063/160289636-0e05f2a3-c05c-4ab4-a560-bfaede131a81.png)
+### Day 3: Arrays Output
+![10dayofjsArrayOut](https://user-images.githubusercontent.com/97106063/160289640-f4694cbc-8b8c-482b-8e3d-2b5cd48a09f3.png)
