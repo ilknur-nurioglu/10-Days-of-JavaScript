@@ -45,3 +45,10 @@ This series focuses on learning and practicing JavaScript.
 ![10dayofjsArray](https://user-images.githubusercontent.com/97106063/160289636-0e05f2a3-c05c-4ab4-a560-bfaede131a81.png)
 ### Day 3: Arrays Output
 ![10dayofjsArrayOut](https://user-images.githubusercontent.com/97106063/160289640-f4694cbc-8b8c-482b-8e3d-2b5cd48a09f3.png)
+
+## Day 3: Try, Catch, and Finally
+![10dayofReverseout](https://user-images.githubusercontent.com/97106063/160433627-d52dc12c-941b-4c26-8d34-862dde7e56cb.png)
+### Day 3: Try, Catch, and Finally Output
+![10dayofReverseout](https://user-images.githubusercontent.com/97106063/160433569-89999fde-8774-438b-9a88-62ea16527ef5.png)
+
+
